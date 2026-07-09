@@ -188,12 +188,7 @@ E-Commerce Platforms • Billing Software • Admin Dashboards • Auth Systems 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anish-AI-ML&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=00C6FF&icon_color=00C6FF&text_color=B0C4DE&cb=1" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-AI-ML&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=00C6FF&text_color=B0C4DE&cb=1" height="170"/>
-
 <img src="https://streak-stats.demolab.com?user=Anish-AI-ML&theme=tokyonight&hide_border=true&background=0F0C29&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF&cb=1"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anish-AI-ML&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4&cb=1"/>
 
 </div>
 
