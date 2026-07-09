@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=ANISH%20SUNDAR&fontSize=60&fontColor=00C6FF&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Founder%20%40%20ANVE%20TECH&descAlignY=58&descSize=18&descColor=B0C4DE&cb=1" width="100%"/>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=2500&pause=800&color=00C6FF&center=true&vCenter=true&width=750&lines=Building+Real-World+AI+Solutions+%F0%9F%A4%96;Full-Stack+%2B+AI+%3D+ANVE+TECH+%F0%9F%9A%80;Turning+Ideas+Into+Products+%F0%9F%92%A1;Always+Learning+Something+New+%F0%9F%8C%B1" />
 
 <br/>
