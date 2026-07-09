@@ -1,276 +1,225 @@
-<h1 align="center">Hi 👋, I'm Anish</h1>
+<div align="center">
 
-<h3 align="center">
-AI & ML Engineer • Full-Stack Developer • Founder @ ANVE TECH
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=ANISH%20SUNDAR&fontSize=60&fontColor=00C6FF&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Founder%20%40%20ANVE%20TECH&descAlignY=58&descSize=18&descColor=B0C4DE" width="100%"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer;Full-Stack+Developer;Founder+of+ANVE+TECH;Building+Real-World+AI+Solutions;Always+Learning+Something+New+🚀" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=2500&pause=800&color=00C6FF&center=true&vCenter=true&width=750&lines=Building+Real-World+AI+Solutions+%F0%9F%A4%96;Full-Stack+%2B+AI+%3D+ANVE+TECH+%F0%9F%9A%80;Turning+Ideas+Into+Products+%F0%9F%92%A1;Always+Learning+Something+New+%F0%9F%8C%B1" />
 
-<p align="center">
-<a href="https://github.com/Anish-AI-ML">
-<img src="https://img.shields.io/github/followers/Anish-AI-ML?label=Followers&style=for-the-badge"/>
-</a>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Anish-AI-ML&style=for-the-badge&color=0e75b6"/>
+<a href="https://www.linkedin.com/in/anish-s-77310434a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:anishsundar28@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://anishcseaiml.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/Anish-AI-ML"><img src="https://img.shields.io/github/followers/Anish-AI-ML?label=Followers&style=for-the-badge&color=00C6FF&labelColor=0F0C29"/></a>
 
-<a href="https://github.com/Anish-AI-ML">
-<img src="https://img.shields.io/github/stars/Anish-AI-ML?style=for-the-badge"/>
-</a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Anish-AI-ML&style=for-the-badge&color=302B63&label=PROFILE+VIEWS"/>
 
----
+</div>
 
-# 🚀 About Me
+<br/>
 
-🎓 Computer Science Engineering (Artificial Intelligence & Machine Learning)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243E,100:302B63&height=3&section=header" width="100%"/>
 
-💼 Founder of **ANVE TECH**
+## 🧬 About Me
 
-🤖 Passionate about AI, Machine Learning, Deep Learning, Full-Stack Development & Cloud Technologies.
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-🌱 Currently learning
+```yaml
+whoami:
+  name: "Anish"
+  role: "AI/ML Engineer • Full-Stack Dev"
+  founder_of: "ANVE TECH"
+  focus:
+    - Machine Learning & Deep Learning
+    - Computer Vision & NLP
+    - Full-Stack Web Development
+    - Cloud & Scalable Systems
+  currently_exploring:
+    - Advanced AI Agents
+    - TinyML & Edge AI
+    - Cloud Deployment
+  philosophy: "Code ideas into real products."
+```
 
-- Advanced AI
-- Computer Vision
-- NLP
-- Cloud Deployment
-- Scalable Web Applications
+</td>
+<td width="50%" valign="top">
 
-💡 I enjoy transforming ideas into real-world products through code.
+### ⚡ Quick Facts
 
----
+🎓 &nbsp; B.E. Computer Science — AI & ML Specialization
+💼 &nbsp; Founder, **ANVE TECH**
+🦾 &nbsp; Building **HAPTIWAY** — AI wearable for the visually impaired
+🌱 &nbsp; Currently deep in Computer Vision + NLP
+📫 &nbsp; Reach me at **anishsundar28@gmail.com**
+⚙️ &nbsp; Workflow: AI-assisted ("vibe") coding + solid fundamentals
 
-# 🌐 Connect with Me
+</td>
+</tr>
+</table>
 
-<p align="left">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302B63,100:24243E&height=3&section=header" width="100%"/>
 
-<a href="https://www.linkedin.com/in/anish-s-77310434a/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
+## 🛠️ Tech Stack — Bento Grid
 
-<a href="mailto:anishsundar28@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
+<table width="100%">
+<tr>
+<td align="center" width="33%">
 
-<a href="https://anishcseaiml.netlify.app">
-<img align="center" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+### 🤖 AI / ML
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/><br/><br/>
 
-</p>
+![](https://img.shields.io/badge/-Deep_Learning-302B63?style=flat-square)
+![](https://img.shields.io/badge/-CNN%20%7C%20RNN-302B63?style=flat-square)
+![](https://img.shields.io/badge/-NLP-302B63?style=flat-square)
+![](https://img.shields.io/badge/-Computer_Vision-302B63?style=flat-square)
+![](https://img.shields.io/badge/-Scikit_learn-302B63?style=flat-square)
+![](https://img.shields.io/badge/-FastAPI-302B63?style=flat-square)
 
----
+</td>
+<td align="center" width="33%">
 
-# 🛠️ Tech Stack
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,c"/><br/><br/>
 
-## 🤖 AI / Machine Learning
+![](https://img.shields.io/badge/-Python-0F0C29?style=flat-square)
+![](https://img.shields.io/badge/-Java-0F0C29?style=flat-square)
+![](https://img.shields.io/badge/-JavaScript-0F0C29?style=flat-square)
+![](https://img.shields.io/badge/-C++-0F0C29?style=flat-square)
+![](https://img.shields.io/badge/-C-0F0C29?style=flat-square)
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
-</p>
+</td>
+<td align="center" width="33%">
 
-- Machine Learning
-- Deep Learning
-- Neural Networks
-- CNN
-- RNN
-- NLP
-- Computer Vision
-- TensorFlow
-- PyTorch
-- Scikit-learn
-- Pandas
-- NumPy
-- FastAPI
-- K-Nearest Neighbors (KNN)
+### 🌍 Web Dev
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind"/><br/><br/>
 
----
+![](https://img.shields.io/badge/-React-24243E?style=flat-square)
+![](https://img.shields.io/badge/-Node.js-24243E?style=flat-square)
+![](https://img.shields.io/badge/-Express-24243E?style=flat-square)
+![](https://img.shields.io/badge/-Flask-24243E?style=flat-square)
+![](https://img.shields.io/badge/-Tailwind_CSS-24243E?style=flat-square)
 
-## 💻 Programming Languages
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,c,cpp"/>
-</p>
+### 🗄️ Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws,gcp"/><br/><br/>
 
-- Python
-- Java
-- JavaScript
-- HTML5
-- CSS3
-- C
-- C++
+![](https://img.shields.io/badge/-MySQL-302B63?style=flat-square)
+![](https://img.shields.io/badge/-MongoDB-302B63?style=flat-square)
+![](https://img.shields.io/badge/-Firebase-302B63?style=flat-square)
+![](https://img.shields.io/badge/-Supabase-302B63?style=flat-square)
+![](https://img.shields.io/badge/-AWS-302B63?style=flat-square)
 
----
+</td>
+<td align="center" width="33%">
 
-## 🌍 Web Development
+### ⚙️ Tools
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma"/><br/><br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi,tailwind"/>
-</p>
+![](https://img.shields.io/badge/-Git-0F0C29?style=flat-square)
+![](https://img.shields.io/badge/-GitHub-0F0C29?style=flat-square)
+![](https://img.shields.io/badge/-Postman-0F0C29?style=flat-square)
+![](https://img.shields.io/badge/-Vercel-0F0C29?style=flat-square)
+![](https://img.shields.io/badge/-Netlify-0F0C29?style=flat-square)
 
-- React
-- Node.js
-- Express.js
-- Flask
-- FastAPI
-- Tailwind CSS
+</td>
+<td align="center" width="33%">
 
----
+### 🎨 Design & IDE
+<img src="https://skillicons.dev/icons?i=figma,vscode"/><br/><br/>
 
-## 🗄️ Databases & Cloud
+![](https://img.shields.io/badge/-Figma-24243E?style=flat-square)
+![](https://img.shields.io/badge/-Jupyter-24243E?style=flat-square)
+![](https://img.shields.io/badge/-Antigravity_IDE-24243E?style=flat-square)
+![](https://img.shields.io/badge/-VS_Code-24243E?style=flat-square)
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,supabase,firebase,aws,gcp"/>
-</p>
+</td>
+</tr>
+</table>
 
-- MySQL
-- MongoDB
-- SQLite
-- Firebase
-- Supabase
-- AWS
-- Google Cloud Platform
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243E,100:302B63&height=3&section=header" width="100%"/>
 
----
+## 🚀 Featured Projects
 
-## ⚙️ Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,vercel,netlify,figma"/>
-</p>
-
-- Git
-- GitHub
-- Linux
-- VS Code
-- Postman
-- Jupyter Notebook
-- Antigravity IDE
-- Vercel
-- Netlify
-- Figma
-- AI-Assisted (Vibe) Coding
-
----
-
-# 🚀 Featured Projects
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
 ### 🌐 ANVE TECH
+Modern websites, AI-powered applications, and business automation software — built end-to-end.
 
-Modern websites, AI-powered applications, business automation and custom software.
+`React` `Node.js` `AI Integration` `Automation`
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🦾 HAPTIWAY
+AI-powered wearable navigation system for the visually impaired — ESP32 + ultrasonic sensors + haptic feedback.
 
-AI-powered wearable navigation system for visually impaired people using ESP32, ultrasonic sensors and haptic feedback.
+`ESP32` `TinyML` `Embedded AI` `Accessibility`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🤖 AI & Machine Learning
+### 🧠 AI & Machine Learning
+Image Classification • Landmark Detection • Neural Networks • Deep Learning • NLP • Computer Vision • TinyML
 
-- Image Classification
-- Landmark Detection
-- Neural Networks
-- Deep Learning
-- NLP
-- Computer Vision
-- TinyML
+`TensorFlow` `PyTorch` `OpenCV`
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 💻 Full-Stack Applications
+E-Commerce Platforms • Billing Software • Admin Dashboards • Auth Systems • REST APIs
 
-- E-Commerce
-- Billing Software
-- Admin Dashboard
-- Portfolio Websites
-- Authentication Systems
-- REST APIs
+`React` `Express` `MongoDB` `Firebase`
 
----
+</td>
+</tr>
+</table>
 
-# 📊 GitHub Statistics
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302B63,100:0F0C29&height=3&section=header" width="100%"/>
 
-<p align="center">
+## 📊 GitHub Analytics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anish-AI-ML&show_icons=true&theme=tokyonight&hide_border=true"/>
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-AI-ML&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Anish-AI-ML&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=00C6FF&icon_color=00C6FF&text_color=B0C4DE" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-AI-ML&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=00C6FF&text_color=B0C4DE" height="170"/>
 
-</p>
+<img src="https://streak-stats.demolab.com?user=Anish-AI-ML&theme=tokyonight&hide_border=true&background=0F0C29&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF"/>
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=Anish-AI-ML&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4"/>
 
-# 🔥 GitHub Streak
+</div>
 
-<p align="center">
+### 📈 Contribution Activity
 
-<img src="https://streak-stats.demolab.com?user=Anish-AI-ML&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anish-AI-ML&theme=tokyo-night&hide_border=true&bg_color=0F0C29&color=00C6FF&line=00C6FF&point=B0C4DE" width="100%"/>
 
-</p>
+<!--
+  🐍 Snake animation slot — activate the GitHub Action below and this line
+  will render your contribution graph as an animated snake eating your commits.
+  <img src="https://raw.githubusercontent.com/Anish-AI-ML/Anish-AI-ML/output/github-contribution-grid-snake.svg" width="100%"/>
+-->
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:302B63&height=3&section=header" width="100%"/>
 
-# 📈 Contribution Graph
+<div align="center">
 
-<p align="center">
+### 💬 Quote of the Moment
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anish-AI-ML&theme=tokyo-night"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-</p>
+</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=150&section=footer" width="100%"/>
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anish-AI-ML&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-
-</p>
-
----
-
-# ⚡ GitHub Metrics
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anish-AI-ML&theme=tokyonight"/>
-
-</p>
-
----
-
-# 💬 Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anish-AI-ML&theme=github-compact"/>
-
-</p>
-
----
-
-# ⭐ Support Me
-
-If you like my work, consider giving a ⭐ to my repositories.
-
----
-
-<p align="center">
-
-### 🚀 Code • Learn • Build • Repeat
-
-</p>
+<p align="center"><b>🚀 Code • Learn • Build • Repeat</b></p>
+<p align="center">⭐ If you like my work, consider starring my repositories!</p>
