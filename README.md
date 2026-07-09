@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=ANISH%20SUNDAR&fontSize=60&fontColor=00C6FF&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Founder%20%40%20ANVE%20TECH&descAlignY=58&descSize=18&descColor=B0C4DE" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=ANISH%20SUNDAR&fontSize=60&fontColor=00C6FF&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Founder%20%40%20ANVE%20TECH&descAlignY=58&descSize=18&descColor=B0C4DE&cb=1" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=2500&pause=800&color=00C6FF&center=true&vCenter=true&width=750&lines=Building+Real-World+AI+Solutions+%F0%9F%A4%96;Full-Stack+%2B+AI+%3D+ANVE+TECH+%F0%9F%9A%80;Turning+Ideas+Into+Products+%F0%9F%92%A1;Always+Learning+Something+New+%F0%9F%8C%B1" />
 
@@ -49,7 +49,7 @@ whoami:
 
 🎓 &nbsp; B.E. Computer Science — AI & ML Specialization
 💼 &nbsp; Founder, **ANVE TECH**
-🦾 &nbsp; Building **HAPTIWAY** — AI wearable for the visually impaired
+🦾 &nbsp; I enjoy transforming ideas into real-world products through code
 🌱 &nbsp; Currently deep in Computer Vision + NLP
 📫 &nbsp; Reach me at **anishsundar28@gmail.com**
 ⚙️ &nbsp; Workflow: AI-assisted ("vibe") coding + solid fundamentals
@@ -190,12 +190,12 @@ E-Commerce Platforms • Billing Software • Admin Dashboards • Auth Systems 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anish-AI-ML&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=00C6FF&icon_color=00C6FF&text_color=B0C4DE" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-AI-ML&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=00C6FF&text_color=B0C4DE" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Anish-AI-ML&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=00C6FF&icon_color=00C6FF&text_color=B0C4DE&cb=1" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-AI-ML&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=00C6FF&text_color=B0C4DE&cb=1" height="170"/>
 
-<img src="https://streak-stats.demolab.com?user=Anish-AI-ML&theme=tokyonight&hide_border=true&background=0F0C29&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF"/>
+<img src="https://streak-stats.demolab.com?user=Anish-AI-ML&theme=tokyonight&hide_border=true&background=0F0C29&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF&cb=1"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Anish-AI-ML&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Anish-AI-ML&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4&cb=1"/>
 
 </div>
 
