@@ -6,7 +6,7 @@
 
 <a href="https://www.linkedin.com/in/anish-s-77310434a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:anishsundar28@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://anishcseaiml.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://anishportfolio.anvetech.site"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/Anish-AI-ML/Anish-AI-ML/blob/main/Anish_CV.pdf"><img src="https://img.shields.io/badge/Resume-00C6FF?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
 <a href="https://github.com/Anish-AI-ML"><img src="https://img.shields.io/github/followers/Anish-AI-ML?label=Followers&style=for-the-badge&color=00C6FF&labelColor=0F0C29"/></a>
 
