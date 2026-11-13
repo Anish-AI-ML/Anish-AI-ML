@@ -1,0 +1,15 @@
+{
+  "source_rows": 51290,
+  "exact_duplicate_rows_removed": 0,
+  "clean_rows": 51290,
+  "total_revenue": 12642501.91,
+  "total_profit": 1467457.29,
+  "unique_orders": 25728,
+  "units_sold": 178312,
+  "sales_statistics": {
+    "Mean": 246.490581202,
+    "Median": 85.053,
+    "Mode": 12.96
+  },
+  "note": "Department field is not present in the source Orders sheet; Sub-Category is used as a product-level breakdown."
+}
